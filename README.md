@@ -51,7 +51,7 @@ The solution uses docker to help solve the age old problem of "it works on my ma
 
 ## Demo
 
-[![Demo](https://img.youtube.com/vi/us9HXNIlpzI/0.jpg)](https://www.youtube.com/watch?v=us9HXNIlpzI)
+[![Demo](https://img.youtube.com/vi/nuUlZEnAcSo/0.jpg)](https://youtu.be/nuUlZEnAcSo)
 
 ## Deployment
 
